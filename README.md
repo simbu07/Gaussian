@@ -8,10 +8,11 @@ To write a program to find the Gaussian Elimination with partial pivoting of a m
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Get the matrix from user.
+2.Using "from numpy as np" to import numpy.
+3.Using numpy library we solve the matrix using gaussian elimination with partial pivoting.
+4.Print the result matrices (Gaussian Elimination).
+5.End the program.
 
 ## Program:
 ```
